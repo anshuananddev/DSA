@@ -1,7 +1,5 @@
 package leetcode;
 
-import java.util.*;
-
 public class S2406 {
     // nlogn solution
 //    public int minGroups(int[][] intervals) {

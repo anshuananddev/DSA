@@ -1,6 +1,7 @@
 package leetcode.contest.biweekly;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.List;
 
 public class S1412 {
     public int[] minBitwiseArray(List<Integer> nums) {
